@@ -83,6 +83,7 @@ LANGUAGES = {
     'be': 'belarusian',
     'bn': 'bengali',
     'bs': 'bosnian',
+    'dv': 'dhivehi',
     'bg': 'bulgarian',
     'ca': 'catalan',
     'ceb': 'cebuano',
