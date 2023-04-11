@@ -2,8 +2,8 @@ This is a fork from ssut/py-googletrans as it is incompatible with python-telegr
 
 Changes made so far:
 
--Make it work for 0.23.3 of http
--Added dv dhivehi language
+-  Make it work for 0.23.3 of http
+-  Added dv dhivehi language
 
 To use this fork you can do 
 
