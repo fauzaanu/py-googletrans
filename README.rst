@@ -1,3 +1,12 @@
+This is a fork from ssut/py-googletrans as it is incompatible with python-telegram-bot because of the outdated http library it uses
+Changes made so far:
+- Make it work for 0.23.3 of http
+- Added dv dhivehi language
+
+To use this fork you can do pip install git:https://github.com/fauzaanu/py-googletrans
+
+
+
 Googletrans
 ===========
 
