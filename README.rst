@@ -3,7 +3,11 @@ Changes made so far:
 - Make it work for 0.23.3 of http
 - Added dv dhivehi language
 
-To use this fork you can do pip install git:https://github.com/fauzaanu/py-googletrans
+To use this fork you can do 
+
+```
+pip install git:https://github.com/fauzaanu/py-googletrans
+```
 
 
 
