@@ -5,9 +5,9 @@ Changes made so far:
 
 To use this fork you can do 
 
-```bash
-pip install git:https://github.com/fauzaanu/py-googletrans
-```
+
+`pip install git:https://github.com/fauzaanu/py-googletrans`
+
 
 
 
